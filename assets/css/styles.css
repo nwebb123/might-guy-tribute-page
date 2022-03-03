@@ -16,6 +16,19 @@ body {
 }
 
 .card-body-bg {
-    background-color: rgb(140,163,104);
-    border: 4px solid black;
+    background-color: rgb(140, 163, 104);
+    border: 3px solid black;
+}
+
+/* v-cloak styling. Ensures disabled components are not rendered upon refresh. */
+[v-cloak] {
+    display: none;
+}
+
+@media screen and (min-width: 1920px) {
+
+    .card-body-bg {
+        background-color: rgb(140, 163, 104);
+        border: 4px solid black;
+    }
 }

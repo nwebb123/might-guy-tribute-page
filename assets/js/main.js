@@ -7,7 +7,7 @@ new Vue({
     el: '#app',
     data: {
         quotes,
-        currentQuote: quotes[8]
+        currentQuote: quotes[0]
     },
     methods: {
         generateRandomQuote: function() {
