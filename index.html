@@ -23,22 +23,22 @@
     <div id="app" v-cloak>
         <div class="container-fluid hero">
             <div class="row justify-content-center">
-                <div class="col-sm-10 col-md-8 col-lg-6">
+                <div class="col-sm-10 col-md-8 col-lg-8">
 
-                    <div class="card mt-5 mb-3 ">
+                    <div class="card  mt-5 mb-3 ">
                         <img class="img-fluid" src="assets/img/might-guy-profile.jpg" alt="The Mighty Might Guy">
-                        <div class="card-body card-body-bg">
-                            <h5 class="card-text ">"{{currentQuote}}"<br><br></h5>
-                            <h6 class="card-text "><small>- Might Guy</small></h6>
+                        <div class="card-body card-body-bg resp-border text-center">
+                            <h5 class="card-text">"{{currentQuote}}"<br><br></h5>
+                            <p class="cite" class="card-text"><small>- Might Guy</small></p>
                         </div>
                     </div>
 
                 </div>
             </div>
 
-            <div class="row justify-content-center">
-                <div class="col-sm-10 col-md-8 col-lg-6">
-                    <button @click="generateRandomQuote" class="btn btn-success">Inspire Me!</button>
+            <div class="row justify-content-center pb-4">
+                <div class="col-sm-10 col-md-8 col-lg-8 text-center">
+                    <button @click="generateRandomQuote" class="btn btn-lg btn-success">Inspire Me!</button>
                 </div>
             </div>
 
