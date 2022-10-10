@@ -1,5 +1,5 @@
-# Inspirational Quote Generator
-FreeCodeCamp (FCC) Tribute Page Challenge. Dedicated to Konoha's Noble Green Beast. Thanks to FCC and Gwen Faraday for the free Vue content.
+# Might Guy Tribute Page
+FreeCodeCamp (FCC) Tribute Page/Random Quote Challenge. Dedicated to Konoha's Noble Green Beast. Thanks to FCC and Gwen Faraday for the free Vue content.
  
  ### Purpose:
  Simple application that generages random inspirational quotes from the character Might Guy from Naruto. FCC's Front End Development Libraries certificate requires the developer to build a tribute page as well as a random quote generator, so I thought I would combine the two while also learning the basics of Vue.js, a popular front end framework.
