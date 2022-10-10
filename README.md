@@ -1,2 +1,4 @@
-# Random-Quote-Generator
- Tribute page dedicated to Might Guy. Generages random inspirational quotes from Might Guy. Enjoy!
+# Inspirational Quote Generator
+ FreeCodeCamp Tribute page challenge dedicated to Konoha's Noble Green Beast.
+ <br />
+ Generages random inspirational quotes from the character Might Guy from Naruto. Enjoy!
